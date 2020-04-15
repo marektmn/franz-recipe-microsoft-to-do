@@ -1,0 +1,13 @@
+{
+  "id": "msto-do",
+  "name": "Microsoft To-do",
+  "version": "1.0.0",
+  "description": "Microsoft To-do",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Marek Toman <marektoman4@gmail.com>",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://todo.microsoft.com"
+  }
+}
